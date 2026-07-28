@@ -1,0 +1,36 @@
+.venv/
+.DS_Store
+__pycache__/
+*.pyc
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# macOS
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# Linux
+*~
+*.swp
+*.swo
+lost+found/
+
+# JetBrains IDEs
+.idea/
+*.iml
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
